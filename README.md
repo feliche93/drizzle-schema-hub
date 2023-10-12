@@ -14,6 +14,6 @@ Join us in building a better future with Drizzle ORM. Explore the schema library
 
 [**Explore Drizzle Schema Hub**](#)
 
-🌟 Give us a star to show your support!
-🐦 Follow [Drizzle](https://twitter.com/DrizzleOrm) on X for updates and announcements.
-🌐 Join the [Drizlle Discord](https://discord.gg/yfjTbVXMW4).
+- 🌟 Give us a star to show your support!
+- 🐦 Follow [Drizzle](https://twitter.com/DrizzleOrm) on X for updates and announcements.
+- 🌐 Join the [Drizlle Discord](https://discord.gg/yfjTbVXMW4).
